@@ -25,7 +25,7 @@ i_rule_list( [
 	, [ q0n(line), invoice_or_credit_note_line ]	
 
 	, currency(`NZD`)
-
+KL//
 	, get_delivery_address
 	
 	, header_sample
