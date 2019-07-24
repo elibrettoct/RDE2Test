@@ -186,4 +186,9 @@ iii:ii`,;.:***i::ii,ii**ii;;,n####@zi,,,.....,:xzzzx*+##z##zxMxnzz#*i*+nnnzzz+;.
 lololololololol
 
 
+<<<<<<< HEAD
 even more changes
+=======
+
+MOSRE CHANGE3SS
+>>>>>>> master
